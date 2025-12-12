@@ -17,7 +17,7 @@
 
 Thank you for reviewing my assignment!
 
-vercel : https://frontend-quiz-flame.vercel.app/
+vercel :[ https://frontend-quiz-flame.vercel.app/](https://vercel.com/bharaths-projects-ae7d818f/frontend-assignment)
 =======
 # Frontend-Assignment
 Bharath - RA2211047010114
